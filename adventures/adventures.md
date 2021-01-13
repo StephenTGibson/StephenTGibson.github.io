@@ -2,7 +2,8 @@
 
 <p>A collection of outdoor trips</p>
 
-<img src = 'images/adventures/backcountry-christmas/Sitting down on the job.jpg' alt = 'some text'/>
+
+<img src="/images/adventures/backcountry-christmas/sitting_down_on_the_job-300x225.jpg" alt = 'some text'/>
 
 <h3><a href="backcountry-christmas.html"> Backcountry Christmas</a></h3>
 <h4>2020-12-25/2020-12-30</h4>
