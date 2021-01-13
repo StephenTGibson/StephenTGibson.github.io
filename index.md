@@ -14,7 +14,9 @@
 	<p>Trying to understand what I want to do with my life to give it purpose</p>
 	<h3>About me</h3>
 	<p>Nothing special, I try to treat others well, not be judgemental and make others smile</p>
-	<a href = "adventures/adventures.html"> Adventures</a>
+	<h3><a href = "adventures/adventures.html"> Adventures</a></h3>
+	<p>A collection of outdoor trips</p>
+	
 	<a href = "interesting-things.html"> Interesting things</a>
 </body>
 </html>
