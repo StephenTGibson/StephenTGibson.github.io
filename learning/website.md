@@ -1,4 +1,4 @@
-# Intro
+# Background
 When I decided to make a website I was keen to remind myself that it only needs to be simple and the content informative to be effective. I'm not really inclined to learn complete web development.
 
 I've certainly made plenty of mistakes and don't proclaim this site to be anything special. However I've still managed to learn a few bits and pieces putting this together. I'm under no illusions that a lot of people will find what I'm doing very basic. At the very least these notes are a reminder and record for myself, but if there is a slim chance they could be useful to someone then all the better.
