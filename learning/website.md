@@ -1,5 +1,5 @@
 # Intro
-When I decided to make a website I was keen to remind myself that it only needs to be simple and the content informative to be effective. I did not want to spend too long learning how to be a web developer.
+When I decided to make a website I was keen to remind myself that it only needs to be simple and the content informative to be effective. I'm not really inclined to learn complete web development.
 
 I've certainly made plenty of mistakes and don't proclaim this site to be anything special. However I've still managed to learn a few bits and pieces putting this together. I'm under no illusions that a lot of people will find what I'm doing very basic. At the very least these notes are a reminder and record for myself, but if there is a slim chance they could be useful to someone then all the better.
 
@@ -56,5 +56,5 @@ It seems that would I should actually do is resize the image first to bring it t
 A web search of this question will give you all sorts of answers, and its pretty clear that really it comes down to what you are trying to show with your image.
 It seems to me that images around ~**1000x750** will suit nearly all my uses and this provides a small enough file size to load easily. I can always use larger sizes for special cases as required.
 
-##CSS
+## CSS
 I might learn some CSS in the future to go with the bare bone html I've picked up. That way I could have a bit more control over my site layout
