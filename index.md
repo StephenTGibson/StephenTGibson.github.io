@@ -18,7 +18,10 @@
 	<h3><a href = "learning/learning.html"> Learning</a></h3>
 	<p>A collection of things I have learnt</p>
 	
-	<h3><a href = "adventures/adventures.html"> Adventures</a></h3>
+	<h3><a href = "data-projects/data-projects.html"> Data Projects</a></h3>
+	<p>A collection of some projects I have worked on</p>
+	
+		<h3><a href = "adventures/adventures.html"> Adventures</a></h3>
 	<p>A collection of outdoor trips</p>
 	
 	
