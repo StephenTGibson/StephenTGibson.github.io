@@ -10,11 +10,11 @@
 * Learning Python coding language and data analysis
 * Enjoying New Zealand outdoors and lack of Covid restrictions
 * Thinking about my next steps
-<a href = "what-im-doing-now.html"> More about what I'm doing now</a>
+<br><a href = "what-im-doing-now.html"> More about what I'm doing now</a>
 <br>
 ## About me
 Nothing special, I try to treat others well, not be judgemental and make others smile. How well I achieve this is unclear
-<a href = "about-me.html"> More about me</a>
+<br><a href = "about-me.html"> More about me</a>
 <br>
 ## <a href = "learning/learning.html"> Learning</a>
 A collection of things that I have learnt, so far mainly results of efforts to develop my programming skills or creating this website
