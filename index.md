@@ -3,7 +3,7 @@
 * To prompt reflection
 * To see how far I have come
 <br>
-## What I'm doing now
+<br>## What I'm doing now
 * Living in Dunedin, New Zealand
 * Working in product development
 * Wanting to play my part in addressing the climate crisis
@@ -12,7 +12,7 @@
 * Thinking about my next steps
 <br><a href = "what-im-doing-now.html"> More about what I'm doing now</a>
 <br>
-## About me
+<br>## About me
 Nothing special, I try to treat others well, not be judgemental and make others smile. How well I achieve this is unclear
 <br><a href = "about-me.html"> More about me</a>
 <br>
@@ -25,5 +25,5 @@ A collection of my projects practicing programming, data analysis and visualisat
 ## <a href = "adventures/adventures.html"> Adventures</a>
 A collection of outdoor trips
 <br>	
-### <a href = "interesting-things.html"> Interesting things</a>
+## <a href = "interesting-things.html"> Interesting things</a>
 Various people, organisations, or websites that I like
