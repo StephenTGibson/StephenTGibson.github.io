@@ -6,19 +6,22 @@
 * Answer to the question is not obvious before start of project
 * Has the potential to be useful to someone
 <br>
-<br>### Difficulties I have experienced
+<br> ### Difficulties I have experienced
 * Non-availablity of relevant data
 * Frustrations with the learning curve
 <br>
-<br>### Areas
+<br> ### Areas
 #### Government spending
 * Visualisation of spending, spending over time
 * Spending contrasted with public opinion (what people see as the government's priorities)
 <br>
-<br>#### Land use and access
+<br> #### Land use and access
 * Regenerative farming
 <br>
-<br>## Completed Projects
+<br> #### Energy use versus temperature/weather data/income/property value
+* ...
+<br>
+<br> ## Completed Projects
 When are they ever completed?
 <br>
 ### My first data project(!)
