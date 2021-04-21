@@ -6,12 +6,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Aim of this site
 ---
-
-# Aim of this site
 * To enable open sharing
 * To prompt reflection
-* To see how far I have come 
+* To help me see how far I have come 
 <br>
 
 ## What I'm doing now
@@ -21,8 +20,7 @@ layout: home
 * Learning Python coding language and data analysis
 * Enjoying New Zealand outdoors and lack of Covid restrictions
 * Thinking about my next steps
-<br>
-<a href = "what-im-doing-now.html"> More about what I'm doing now</a> 
+* <a href = "what-im-doing-now.html"> More about what I'm doing now</a> 
 <br>
 
 ## About me
