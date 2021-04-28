@@ -1,5 +1,7 @@
-# Data Projects
-<br>
+---
+layout: page
+title: Data Projects
+---
 ## Areas of interest/ideas for future projects
 ### Ideal criteria for projects
 * Defined by a question (which the project attempts to answer)

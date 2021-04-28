@@ -5,21 +5,16 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
-title: Aim of this site
----
-* To enable open sharing
-* To prompt reflection
-* To help me see how far I have come 
-<br>
 
+layout: home
+# title: 
+---
 ## What I'm doing now
 * Living in Dunedin, New Zealand
 * Working in product development
-* Wanting to play my part in addressing the climate crisis
-* Learning Python coding language and data analysis
-* Enjoying New Zealand outdoors and lack of Covid restrictions
-* Thinking about my next steps
+* Learning data analysis
+* Enjoying New Zealand outdoors
+* Wanting to do more to address the climate crisis
 * <a href = "what-im-doing-now.html"> More about what I'm doing now</a> 
 <br>
 
