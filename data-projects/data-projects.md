@@ -3,29 +3,38 @@ layout: page
 title: Data Projects
 ---
 ## Areas of interest/ideas for future projects
-### Ideal criteria for projects
+### Criteria for projects
 * Defined by a question (which the project attempts to answer)
 * Answer to the question is not obvious before start of project
 * Has the potential to be useful to someone
+* Is in an field I find interesting!
 <br>
-<br> ### Difficulties I have experienced
-* Non-availablity of relevant data
+
+### Difficulties I have experienced
+* Unavailablity of relevant data
 * Frustrations with the learning curve
 <br>
-<br> ### Areas
+
+### Areas
 #### Government spending
 * Visualisation of spending, spending over time
 * Spending contrasted with public opinion (what people see as the government's priorities)
 <br>
-<br> #### Land use and access
+
+#### Land use and access
 * Regenerative farming
 <br>
-<br> #### Energy use versus temperature/weather data/income/property value
-* ...
+
+#### Household energy use against various factors
+* Temperature
+* Weather
+* Property value
 <br>
-<br> ## Completed Projects
+
+## Completed Projects
 When are they ever completed?
 <br>
+
 ### My first data project(!)
 [Cycleways and their impact](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/Cycleways%20and%20their%20impact.ipynb)
 
