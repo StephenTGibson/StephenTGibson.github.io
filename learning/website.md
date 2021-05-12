@@ -1,3 +1,8 @@
+---
+layout: default
+title: Website
+---
+
 # Background
 When I decided to make a website I was keen to remind myself that it only needs to be simple and the content informative to be effective. I'm not really inclined to learn complete web development.
 
