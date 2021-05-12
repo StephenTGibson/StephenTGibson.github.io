@@ -7,7 +7,7 @@
 #
 
 layout: home
-# title: 
+title: Introducting me
 ---
 ## What I'm doing now
 * Living in Dunedin, New Zealand
