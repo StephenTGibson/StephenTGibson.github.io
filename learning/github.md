@@ -1,4 +1,8 @@
-<h3>Some things that I've learnt using github</h3>
+---
+layout: posts
+title: github
+---
+Some things that I've learnt using github
 
 <ol>
   <li>an item</li>
