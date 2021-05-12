@@ -52,3 +52,7 @@ header_pages:
 
 # Build settings
 # theme:
+
+plugins:
+# - jekyll-feed
+ - jekyll-seo-tag
