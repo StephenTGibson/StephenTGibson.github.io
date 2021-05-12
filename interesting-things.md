@@ -1,13 +1,9 @@
-<html lang = "en">
-	<head>
-		<meta charset = "UTF-8">
-		<title>Space to think</title>
-	</head>
-	<body>
-		<p>A page where I will interesting things</p>
-		<p>It's empty for now, oh no how sad</p>
+---
+layout: page
+title: Interesting things
+---
+A page where I will share all manner of interestings things I like
+
+It's empty for now, oh no how sad
 		
-		<img src = 'painting-snowy-walk.jpg' alt = 'Painting of my family hiking across a snow covered landscape under a clear blue sky'/>
-		
-	</body>
-</html>
+<img src = 'painting-snowy-walk.jpg' alt = 'Painting of my family hiking across a snow covered landscape under a clear blue sky'/>

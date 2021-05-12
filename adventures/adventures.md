@@ -1,7 +1,9 @@
-<h1>Adventures</h1>
+---
+layout: page
+title: Adventures
+---
 
 <p>A collection of outdoor trips</p>
-
 
 <img src="/images/adventures/backcountry-christmas/sitting_down_on_the_job-300x225.jpg" alt = 'some text'/>
 
