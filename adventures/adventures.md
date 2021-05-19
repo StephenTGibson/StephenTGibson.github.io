@@ -3,23 +3,24 @@ layout: page
 title: Adventures
 ---
 
-<p>A collection of outdoor trips</p>
-
-<img src="/images/adventures/backcountry-christmas/sitting_down_on_the_job-300x225.jpg" alt = 'some text'/>
-
-<h3><a href="backcountry-christmas.html"> Backcountry Christmas</a></h3>
-<h4>2020-12-25/2020-12-30</h4>
- <p>A 6 day tramp circling and summiting Mt Arthur, in the Kahurangi National Park in the north-west of New Zealand's south island</p>
-
-
-<h3>South Island Cycle Tour</h3>
-<h4>2021-02-xx/2021-02-xx</h4>
-<p>A nice cycle trip</p>
-
-
-### <a href="u-glade-dore-fiordland.html"> U, Glade and Dore Passes</a></h3>
-
+A collection of outdoor trips
 
 ### [Kaikoura - Hapuku Valley and Mt Fyffe](/adventures/kaikoura_hapuku_valley_and_mt_fyffe.html)
-May 2021
-A 4 day hike near Kaikoura as part of a week long holiday in the area. Lots of evidence remaining of the 2016 earthquake
+###### May 2021
+A 4 day hike near Kaikoura as part of a week long holiday in the area. Interesting to see lots of evidence remaining of the 2016 earthquake
+
+### [South Island Cycle Tour](/adventures/south_island_cycle_tour.html)
+###### February 2021
+<br>
+A nice cycle trip
+
+### [Backcountry Christmas - Mt Arthur](/adventures/backcountry_christmas.html)
+###### December 2020
+6 days circling and summiting Mt Arthur, in the Kahurangi National Park
+
+### [Fiordland - U, Glade and Dore Passes](/adventures/fiordland_u_glade_dore.html)
+###### ?
+A long discussed tramp, traversing 3 passes in northern Fiordland, mostly off-track
+
+
+
