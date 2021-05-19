@@ -63,3 +63,16 @@ It seems to me that images around ~**1000x750** will suit nearly all my uses and
 
 ## CSS
 I might learn some CSS in the future to go with the bare bone html I've picked up. That way I could have a bit more control over my site layout
+
+
+### Jekyll
+---
+details go in here
+(title, layout etc)
+---
+
+Cheat get around: remove all posts from _posts folder in order to remove them by default from homepage
+
+Added (copied) if statement to remove subscribe button from footer
+
+Sorted out my header section: config file using the customer header titles section
