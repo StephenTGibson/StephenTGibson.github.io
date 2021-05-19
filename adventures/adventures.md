@@ -20,5 +20,5 @@ title: Adventures
 ### <a href="u-glade-dore-fiordland.html"> U, Glade and Dore Passes</a></h3>
 
 
-### [Kaikoura - Hapuku Valley and Mt Fyffe](/kaikoura_hapuku_valley_and_mt_fyffe.html)
+### [Kaikoura - Hapuku Valley and Mt Fyffe](/adventures/kaikoura_hapuku_valley_and_mt_fyffe.html)
 A new trip!
