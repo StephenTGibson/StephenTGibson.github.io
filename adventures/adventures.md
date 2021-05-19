@@ -21,4 +21,5 @@ title: Adventures
 
 
 ### [Kaikoura - Hapuku Valley and Mt Fyffe](/adventures/kaikoura_hapuku_valley_and_mt_fyffe.html)
-A new trip!
+May 2021
+A 4 day hike near Kaikoura as part of a week long holiday in the area. Lots of evidence remaining of the 2016 earthquake
