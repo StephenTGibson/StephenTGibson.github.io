@@ -23,7 +23,7 @@ Trees close to lake seem to indicate the level of the lake was at one point much
 
 ![dead trees with a clear line above which lichen is still growing, below which the trees are bare](/images/adventures/kaikoura_hapuku_valley_and_mt_fyffe/kaikoura_hapuku_valley_and_mt_fyffe-maybe_the_maximum_lake_depth-800x600.jpg)
 
-Looking up the valley from the top of the rock wall
+Looking up the valley from the top of the rock wall.
 
 ![small lake at the base of rock wall, valley bending away around a corner](/images/adventures/kaikoura_hapuku_valley_and_mt_fyffe/kaikoura_hapuku_valley_and_mt_fyffe-lake_from_top_of_rock_wall-800x600.jpg)
 
@@ -63,11 +63,11 @@ Unfortunately wilding pines have taken a strong hold of the area around the summ
 
 ![short scrubby pines growing up through loose rock on the mountain top](/images/adventures/kaikoura_hapuku_valley_and_mt_fyffe/kaikoura_hapuku_valley_and_mt_fyffe-wilding_pines_on_mt_fyffe_summit-800x600.jpg)
 
-The 2 of us enjoying great summit views, with Kaikoura peninsula behind.
+Great views from the summit.
 
 ![2 happy hikers with sea views and a peninsula behind](/images/adventures/kaikoura_hapuku_valley_and_mt_fyffe/kaikoura_hapuku_valley_and_mt_fyffe-mt_fyffe_summit_and_kaikoura_peninsula-800x600.jpg)
 
-Looking south towards the coast from the summit.
+Looking south towards the coast.
 
 ![views from the summit of farmland, hills and the ocean beyond](/images/adventures/kaikoura_hapuku_valley_and_mt_fyffe/kaikoura_hapuku_valley_and_mt_fyffe-south_along_the_coast_from_mt_fyffe_summit-800x600.jpg)
 
@@ -83,10 +83,10 @@ A glorious evening turned to night and we were treated to more great views of th
 
 ![kaikoura peninsula in fading light after sunset](/images/adventures/kaikoura_hapuku_valley_and_mt_fyffe/kaikoura_hapuku_valley_and_mt_fyffe-pastel_skies_over_kaikoura_peninsula-800x600.jpg)
 
-The following morning we made our way down the popular and well worn 4wd track to the car park at the far end of Mt Fyffe than from where we started. Now, how to get back to the car?
+The following morning we made our way down the popular and well worn 4wd track to the car park, the opposite end of Mt Fyffe than from where we started. Now, how to get back to the car?
 
 ##### Whale Watching
-Following the hike, we spent a few days exploring the peninsula and took a whale watching tour. We were lucky enough to see 2 of the local resident Sperm Whales.
+Following the hike, we spent a few days relaxing and exploring the peninsula. We took a whale watching tour and were lucky enough to see 2 of the local resident Sperm Whales.
 
 ![the back of a sperm whale emerging from the sea with mountains behind](/images/adventures/kaikoura_hapuku_valley_and_mt_fyffe/kaikoura_hapuku_valley_and_mt_fyffe-sperm_whale_diving_1-800x600.jpg)
 
