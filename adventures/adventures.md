@@ -5,6 +5,10 @@ title: Adventures
 
 A collection of outdoor trips
 
+### [Fiordland - The Hollyford](/adventures/fiordland_the_hollyford.html)
+###### August 2021
+Originally planned to attempt an FKT on the Hollyford and Pyke loop. Foiled by Fiordland weather, we instead retraced our steps back up the Hollyford
+
 ### [Kaikoura - Hapuku Valley and Mt Fyffe](/adventures/kaikoura_hapuku_valley_and_mt_fyffe.html)
 ###### May 2021
 A 4 day hike near Kaikoura as part of a week long holiday in the area. Interesting to see lots of evidence remaining of the 2016 earthquake
