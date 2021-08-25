@@ -7,15 +7,15 @@ Connecting U, Glade and Dore passes was a trip that we had been discussing for s
 
 ###### Day 1
 
-Having camped in the Eglinton Valley the night before, we were able to get started promptly after a quick car shuttle and hitch. Following the track up Mistake Creek made easy going and we were greeted with beautiful views of the upper valley. We made our way up the west branch towards U pass and as we left the bush the morning clouds began to rise.
+Having camped in the Eglinton Valley the night before, we were able to get started promptly after a quick car shuttle and hitch. Following the track up Mistake Creek made for easy going and we were greeted with beautiful views of the upper valley. We made our way up the west branch towards U Pass and as we left the bush the morning clouds began to rise.
 
 ![mountain river and valley with blue sky](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-down_west_branch_mistake_creek-800x600.jpg)
 
-The primary obstacle to crossing U pass is not the pass itself but finding a route around the waterfall guarding access to the upper basin.
+The primary obstacle to crossing U Pass is not the pass itself but finding a route around the waterfall guarding access to the upper basin.
 
 ![a waterfall in an enclosed mountain valley](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-waterfall_upper_mistake_creek-800x600.jpg)
 
-After some scouting of potential routes on the true left of the base of the falls, we found a reasonable path up. Initially following a an easy rocky scramble near the falls, there was one easy but exposed step up and over a grassy bank. From here we scrambled up tussocky slopes as pictured below. 
+After some scouting of potential routes on the true left of the base of the falls, we found a reasonable path up. Initially following an easy rocky scramble adjacent to the falls, there was one easy but exposed step up and over a grassy bank. From here we scrambled up tussocky slopes as pictured below. 
 
 ![3 hikers climbing steeply above a valley](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-climbing_around_waterfall-800x600.jpg)
 
@@ -27,7 +27,7 @@ After cresting the top of the waterfall, the valley opens out in a flat basin. T
 
 ![3 hikers crossing a flat basin with mountains behind](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-basin_above_waterfall-800x600.jpg)
 
-It is a short and easy walk from here to the base of the climb up to the aptly named U pass.
+It is a short and easy walk from here to the base of the climb up to the aptly named U Pass.
 
 ![a narrow u shaped notch between 2 mountains](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-u_pass-800x600.jpg)
 
@@ -67,15 +67,15 @@ Due to the mixed reports of the difficulties of traversing this pass, we were al
 
 ![4 hikers on a mountain pass with blue sky and sunshine](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-4_on_top_of_glade-800x600.jpg)
 
-From the pass we could admire the views down Glade Burn and also see our way ahead. The initial descent down the south west side of Glade Pass is straightforward and the route down to the bush line follows any number of deer trails, we mainly the true right for the most part.
+From the pass we could admire the views down Glade Burn and also see our way ahead. The initial descent down the south west side of Glade Pass is straightforward and the route down to the bush line follows any number of deer trails, we followed the true right for the most part.
 
 ![view down a valley with creek stretching away into trees](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-looking_down_glade_burn-800x600.jpg)
 
-There remained around 4km bush travel to our intended campsite, near where the Dore Pass Route crosses Glade Burn. After a brief attempt at bush bashing down the true left of the creek, we quickly opted for easier travel rock hopping and scrambling down the creek itself. At sections the creek gorges in considerably and any bush bashing route would have to detour significantly. Descending the creek was slow and difficult at times and this section certainly took longer than expected but there was no real obstacles to our progress. However if the creek was running high this could become seriously problematic.
+There remained around 4km of bush travel to our intended campsite, near where the Dore Pass Route crosses Glade Burn. After a brief attempt at bush bashing down the true left of the creek, we quickly opted for easier travel rock hopping and scrambling down the creek itself. At sections the creek gorges in considerably and any bush bashing route would have to detour significantly. Descending the creek was slow and difficult at times and this section certainly took longer than expected but there were no real obstacles to our progress. However if the creek was running high this would likely become much more difficult.
 
 ![3 hikers scrambling down rocks alongside a steep creek](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-scambling_down_glade_burn-800x600.jpg)
 
-With very little warning the creek suddenly opens out and Lake Te Anau appears below us. We quickly come across the Dore Pass Route crossing and not far below we manage to tuck ourselves away in the bush for a cosy campspot.
+With very little warning the creek suddenly opens out and Lake Te Anau appears below us. We quickly reach the Dore Pass Route crossing and not far below we manage to tuck ourselves away in the bush for a cosy camp spot.
 
 ![looking down a wide rocky river to a lake below with trees on either side](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-lake_te_anau_from_lower_glade_burn-800x600.jpg)
 
@@ -85,7 +85,7 @@ Following the pattern of the previous 2 days, we wake to murky low cloud. Straig
 
 ![3 hikers climbing a steep mossy slope in cloud](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-in_the_cloud_climbing_dore-800x600.jpg)
 
-A little higher, some gentle swirls of cloud, a couple of teasing glimpses; then without warning blue skies and mountain peaks emerge as islands above the seas.
+A little higher, some gentle swirls of cloud, a couple of teasing glimpses; then blue skies and mountain peaks emerge as islands above the seas.
 
 ![blue sky above and clouds below with a few mountain peaks rising above the clouds](/images/adventures/fiordland_u_glade_dore/fiordland_u_glade_dore-first_view_above_clouds-800x599.jpg)
 
