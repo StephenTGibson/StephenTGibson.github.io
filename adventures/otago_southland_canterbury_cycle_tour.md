@@ -3,6 +3,26 @@ layout: post
 title: Otago, Southland and Canterbury Cycle Tour
 ---
 
+
+![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-1_leaving_dunrobin-800x600.jpg)
+
+![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-2_brighton_summer-800x600.jpg)
+
+![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-3_waihola_waipori_wetlands-800x600.jpg)
+
+![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-4_lake_mahinerangi-800x600.jpg)
+
+![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-5_down_to_lawrence-800x600.jpg)
+
+![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-6_joining_clutha_gold-800x600.jpg)
+
+![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-7_clutha_beaumont-800x600.jpg)
+
+![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-8_beaumont_camping-800x600.jpg)
+
+![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-9_roxburgh_dam-800x600.jpg)
+
+
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-10_otago_rail_trail_from_alex-800x600.jpg)
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-11_start_thompsons_saddle_road-800x600.jpg)
@@ -23,7 +43,7 @@ title: Otago, Southland and Canterbury Cycle Tour
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-19_arriving_walter_peak_station-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-1_leaving_dunrobin-800x600.jpg)
+
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-20_looking_northeast_beach_from_point-800x600.jpg)
 
@@ -45,7 +65,8 @@ title: Otago, Southland and Canterbury Cycle Tour
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-29_looking_down_oreti_valley-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-2_brighton_summer-800x600.jpg)
+
+
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-30_mavora_junction-800x600.jpg)
 
@@ -67,7 +88,8 @@ title: Otago, Southland and Canterbury Cycle Tour
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-39_grove_near_the_waitaki-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-3_waihola_waipori_wetlands-800x600.jpg)
+
+
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-40_staying_at_the_bus-800x600.jpg)
 
@@ -89,7 +111,7 @@ title: Otago, Southland and Canterbury Cycle Tour
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-49_otago_rail_trail_tunnel-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-4_lake_mahinerangi-800x600.jpg)
+
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-50_hyde_station-800x600.jpg)
 
@@ -103,13 +125,5 @@ title: Otago, Southland and Canterbury Cycle Tour
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-55_home_to_dunrobin-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-5_down_to_lawrence-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-6_joining_clutha_gold-800x600.jpg)
-
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-7_clutha_beaumont-800x600.jpg)
-
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-8_beaumont_camping-800x600.jpg)
-
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-9_roxburgh_dam-800x600.jpg)
 
