@@ -25,7 +25,6 @@ A 3 day tramp a long time in the planning, traversing 3 passes in northern Fiord
 ###### December 2020
 6 days circling and summiting Mt Arthur, in the Kahurangi National Park
 
-
-
-
-
+### [Ohau - Temple Stream, Maitland and Freehold Creeks Loop](/adventures/ohau_temple_maitland_freehold.html)
+###### February 2020
+4 days sunny camping in the mountains north west of Lake Ohau. A mixture of beautiful alpine streams, barren rocky landscapes and high mountain lakes
