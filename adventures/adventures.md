@@ -3,7 +3,7 @@ layout: page
 title: Adventures
 ---
 
-A collection of my past adventures
+Some past adventures
 
 ### [Fiordland - The Hollyford](/adventures/fiordland_the_hollyford.html)
 ###### August 2021
@@ -24,6 +24,10 @@ A 3 day tramp a long time in the planning, traversing 3 passes in northern Fiord
 ### [Backcountry Christmas - Mt Arthur](/adventures/backcountry_christmas.html)
 ###### December 2020
 6 days circling and summiting Mt Arthur, in the Kahurangi National Park
+
+### [A Snowy Surprise at Mount Somers](/adventures/mount_somers_surprise.html)
+###### November 2020
+A weekend explore of Mount Somers in Canterbury. We woke on Sunday morning to a surprise overnight snowfall
 
 ### [Ohau - Temple Stream, Maitland and Freehold Creeks Loop](/adventures/ohau_temple_maitland_freehold.html)
 ###### February 2020
