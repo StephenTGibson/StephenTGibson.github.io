@@ -27,7 +27,7 @@ We descended into the cloud to meet the track.
 
 ![mountain side with cloud below](/images/adventures/mount_somers_surprise/mount_somers_surprise-05_sea_of_cloud-800x600.jpg)
 
-Turning north on the track, we cross this swing bridge and soon reach Woolshed Creek hut. I spend much of my wardening time in this area.
+Turning north on the track, we cross this swing bridge and soon reach Woolshed Creek hut. I spent much of my wardening time in this area.
 
 ![hiker crossing a swing bridge over a narrow gorge](/images/adventures/mount_somers_surprise/mount_somers_surprise-06_swing_bridge-800x600.jpg)
 
@@ -55,7 +55,7 @@ We were happy to enjoy the spectacle as we made our way back down to the road en
 
 ![a hiker in snowy trees](/images/adventures/mount_somers_surprise/mount_somers_surprise-11_snow_in_trees-800x600.jpg)
 
-The day felt relatively warm and it must have been just on the temperature limit for snow to fall. The snow continued to fall, heavy and wet.
+The day felt relatively warm and it must have been just on the temperature limit for snow to fall. The snow continued, heavy and wet.
 
 ![a hiker crossing a snowy creek](/images/adventures/mount_somers_surprise/mount_somers_surprise-12_snow_on_creek-800x600.jpg)
 
@@ -67,4 +67,4 @@ By the time we neared the road end, it was just another soggy spring day.
 
 ![a narrow swing bridge over a river with trees beyond](/images/adventures/mount_somers_surprise/mount_somers_surprise-14_swing_bridge_no_snow-800x600.jpg)
 
-I believe the snow didn't last long after the big fall as the temperature continued to rise through the afternoon. It was a real added bonus for the weekend. Wrapped up warm as we were, the landscape's overnight transformation into a winter wonderland was pretty special.
+I believe the snow didn't last long after this fall as the temperature continued to rise through the afternoon. It was a real added bonus for the weekend. Wrapped up warm as we were, the landscape's overnight transformation into a winter wonderland was pretty special.
