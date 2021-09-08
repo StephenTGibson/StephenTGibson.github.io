@@ -15,7 +15,7 @@ Scree fields run down from the peaks above us all the way to valley floor.
 
 ![2 hikers walking along the base of a scree slope](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-02_continuing_up_temple_stream_south-800x600.jpg)
 
-At South Temple Hut we branch off, following the side creek west and then a second branch south. For the most part the bush is open and easy to pick a path through, although at times it is easier to simply climb the creek itself.
+At South Temple Hut we branch off, following the side creek west and then a second branch south. For the most part the bush is open and route finding is simple enough, although at times it is easier to climb the creek itself.
 
 ![2 hikers climbing steeply up a small creek](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-03_heading_up_side_creek-800x600.jpg)
 
@@ -23,7 +23,7 @@ After some climbing we are granted a view out of the bush, northwards into the u
 
 ![a green alpine valley](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-04_view_into_upper_temple_stream_south-800x600.jpg)
 
-Leaving the bush, the going gets easier , following the creek up rocky slopes.
+The going gets easier after emerging from the bush, we now follow the creek up rocky slopes.
 
 ![upper mountain valley with mountains beyond](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-05_view_back_down_side_creek-800x600.jpg)
 
@@ -39,19 +39,19 @@ We manage to find some tent spots on the grassy patches above the two tarns tuck
 
 ![a small lake with scree slopes around](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-08_view_from_campsite-800x600.jpg)
 
-Its been a hot day and a dip here is welcome refreshment before dinner, although potentially one of the colder alpine plunges I have ever had!
+It has been a hot day and a dip here is welcome refreshment before dinner, although potentially one of the colder alpine plunges I have ever had!
 
 ###### Day 2
 
-From our campsite we head south east to cross the saddle between points 2222 and 2090. From here our grassy campsite nestled between the two tarns can be seen.
+From our campsite we head south east to cross the saddle between points 2222 and 2090. From here our grassy campsite nestled between the two tarns is more obvious.
 
 ![2 small lakes with scree slopes and mountains all around](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-09_campsite_from_saddle-800x600.jpg)
 
-I have never been through an area quite like this, where everything is loose rock. It is still morning but already the day is baking hot and all is dry.
+I have never been through an area quite like this, where everything around is loose rock. It is still morning but already the day is baking hot.
 
 ![2 hikers descending a rocky valley](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-10_descending_from_saddle-800x600.jpg)
 
-Descending further into the valley we cross some grassy patches, then traverse and climb up the true left side of the valley. This is looking back up where we have come down from; the saddle we crossed just out of sight around to the right at the head of the valley.
+Descending further into the valley we cross some grassy patches, then traverse and climb up the true left side of the valley. This is looking back up where we have come down from; the saddle we crossed is just out of sight around to the right at the head of the valley.
 
 ![a rocky valley](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-11_back_towards_saddle-800x600.jpg)
 
@@ -59,19 +59,19 @@ We climb steeply up a mixture of loose scree and the underlying rock spines to r
 
 ![2 hikers on top of a rocky mountain](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-12_top_of_scree_climb-800x600.jpg)
 
-From here we can traverse along the ridge to point 1821. The gradient is easier now and the scree more sure underfoot. The endless rock is still barren and inhospitable though.
+From here we can traverse along the ridge to point 1821. The gradient is easier now and the scree more sure underfoot. Though the endless rock still feels barren and inhospitable.
 
 ![a hiker descending a rocky ridge](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-13_a_world_of_rocks-800x600.jpg)
 
-From point 1821 we descend south east, at first steeply down scree, the becoming more gradual and tussocky. A hardy flock of merino sheep seem to attempting to graze the barren rock slopes.
+From point 1821 we descend south east, at first steeply down scree, then becoming more gradual with tussock. A hardy flock of merino sheep seem to be attempting to graze the barren rock slopes.
 
 ![2 hikers descending a scree slope into a valley](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-14_start_descent_into_maitland_stream-800x600.jpg)
 
-Before long we reach the bush edge. We follow the creek down, at points the bush thickens and slows our progress but eventually we pop out onto the Maitland Stream track and turn right, up towards Maitland hut. 
+Before long we reach the bush edge. We follow the creek down through thickening beech forest. This slows our progress but eventually we pop out onto the Maitland Stream track and turn right, up towards Maitland hut.
 
 ![a hiker descending into the bush beside a stream](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-15_entering_maitland_stream_bush-800x600.jpg)
 
-We find the small hut busy, after a chat with some of the trampers we continue on to the bush edge. Here we find ourselves a spot for the tents and settle in for the night.
+We find the small hut busy, after a chat with some of the trampers we continue onwards up the track to the bush edge. Here we find ourselves a spot for the tents and settle in for the night.
 
 ![2 hikers at a campsite on the edge of the bush](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-16_campsite_bush_edge-800x600.jpg)
 
@@ -101,7 +101,7 @@ Heading south along the ridge, the way is rocky but easy going with gentle gradi
 
 ![2 hikers walking along a rocky ridge](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-22_traversing_tops_southwards-800x600.jpg)
 
-Looking east, we can now see down into the very upper reaches of the Ahuriri River East Branch. The rocks have acquired a pink tint on this side of the ridge.
+Looking east, we can now see down into the very upper reaches of the east branch of the Ahuriri. The rocks have acquired a pink tint on this side of the ridge.
 
 ![a rocky slope with rocky mountain beyond and 2 small lakes](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-23_east_into_upper_ahuriri_east_branch-800x600.jpg)
 
@@ -109,7 +109,7 @@ We descend into the valley to camp beside the lake at 1514. A small herd of Tahr
 
 ![a lake with 2 tents and hikers and mountains behind](/images/adventures/ohau_temple_maitland_freehold/ohau_temple_maitland_freehold-24_campsite_beside_lake_at_1514-800x600.jpg)
 
-Our favourite campsite of the trip, we enjoyed our views of the impressive amphitheatre in which we found ourselves.
+Our favourite campsite of the trip, we enjoyed views of the impressive amphitheatre in which we are encircled.
 
 ###### Day 4
 
