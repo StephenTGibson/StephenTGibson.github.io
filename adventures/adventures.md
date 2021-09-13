@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Some past adventures
+title: Adventures
 ---
 
 ### [Fiordland - The Hollyford](/adventures/fiordland_the_hollyford.html)
