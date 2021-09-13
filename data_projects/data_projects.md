@@ -2,7 +2,7 @@
 layout: page
 title: Data projects
 ---
-[Cycleways in New Zealand](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/Cycleways%20and%20their%20impact.ipynb)
+[Cycleways in New Zealand](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/new_zealand_cycleways.ipynb)
 
 [DIY k-means clustering](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/diy_k_means_clustering.ipynb)
 

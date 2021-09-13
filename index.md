@@ -9,29 +9,23 @@ layout: home
 title: An introduction
 ---
 ## What I'm doing now
-* Living in Dunedin, New Zealand
-* Working in product development
-* Learning data analysis
-* Enjoying New Zealand outdoors
-* Wanting to do more to address the climate crisis
-* <a href = "what-im-doing-now.html"> More about what I'm doing now</a> 
-<br>
+* Living in Liverpool, UK
+* Masters in Data Science & AI
+* Adventures in the UK
+* Catching up with friends and family
+* <a href = "what_am_i_doing_next.html"> What am I doing next?</a> 
 
 ## About me
 Nothing special, I try to treat others well, not be judgemental and make others smile. How well I achieve this is unclear. <a href = "about-me.html"> More about me</a>
-<br>
+
+## <a href = "adventures/adventures.html"> Adventures</a>
+A collection of outdoor activities
+
+## <a href = "data_projects/data_projects.html"> Data Projects</a>
+A collection of my projects practicing programming, data analysis and visualisation
 
 ## <a href = "learning/learning.html"> Learning</a>
 A collection of things that I have learnt, so far mainly results of efforts to develop my programming skills or creating this website
-<br>
-
-## <a href = "data-projects/data-projects.html"> Data Projects</a>
-A collection of my projects practicing programming, data analysis and visualisation
-<br>
-
-## <a href = "adventures/adventures.html"> Adventures</a>
-A collection of outdoor trips
-<br>
 
 ## <a href = "interesting-things.html"> Interesting things</a>
 Various people, organisations, or websites that I like
