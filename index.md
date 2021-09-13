@@ -16,16 +16,16 @@ title: An introduction
 * <a href = "what_am_i_doing_next.html"> What am I doing next?</a> 
 
 ## About me
-Nothing special, I try to treat others well, not be judgemental and make others smile. How well I achieve this is unclear. <a href = "about-me.html"> More about me</a>
+Nothing special. I aim to treat others well and not be judgemental. <a href = "about-me.html"> More about me</a>
 
 ## <a href = "adventures/adventures.html"> Adventures</a>
 A collection of outdoor activities
 
 ## <a href = "data_projects/data_projects.html"> Data Projects</a>
-A collection of my projects practicing programming, data analysis and visualisation
+Investigating things I find interesting and practicing programming, analysis and visualisation at the same time
 
 ## <a href = "learning/learning.html"> Learning</a>
-A collection of things that I have learnt, so far mainly results of efforts to develop my programming skills or creating this website
+A collection of things I've learnt, which may or may not be useful to anyone else
 
 ## <a href = "interesting-things.html"> Interesting things</a>
 Various people, organisations, or websites that I like

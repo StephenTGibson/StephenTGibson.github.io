@@ -2,11 +2,11 @@
 layout: page
 title: Data projects
 ---
-[Cycleways in New Zealand](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/new_zealand_cycleways.ipynb)
-
 [DIY k-means clustering](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/diy_k_means_clustering.ipynb)
 
-## Thoughts on future projects
+[Cycleways in New Zealand](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/new_zealand_cycleways.ipynb)
+
+#### Thoughts on future projects
 * Should be defined by a question (which the project attempts to answer)
 * Answer to the question is not obvious before start of project
 * Has the potential to be useful to someone
