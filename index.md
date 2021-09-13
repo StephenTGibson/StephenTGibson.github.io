@@ -23,9 +23,3 @@ A collection of outdoor activities
 
 ## <a href = "data_projects/data_projects.html"> Data Projects</a>
 Investigating things I find interesting and practicing programming, analysis and visualisation at the same time
-
-## <a href = "learning/learning.html"> Learning</a>
-A collection of things I've learnt, which may or may not be useful to anyone else
-
-## <a href = "interesting-things.html"> Interesting things</a>
-Various people, organisations, or websites that I like
