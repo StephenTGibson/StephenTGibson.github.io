@@ -1,39 +1,34 @@
 ---
 layout: page
-title: Data Projects
+title: Some data projects
 ---
-## Criteria for projects
-* Defined by a question (which the project attempts to answer)
+
+[Cycleways in New Zealand](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/Cycleways%20and%20their%20impact.ipynb)
+
+[DIY k-means clustering](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/diy_k_means_clustering.ipynb)
+
+## Thoughts on future projects
+* Should be defined by a question (which the project attempts to answer)
 * Answer to the question is not obvious before start of project
 * Has the potential to be useful to someone
-* Is in an field I find interesting!
-<br>
+* Is in an field I find interesting
 
 ## Difficulties I have experienced
 * Unavailablity of relevant data
 * Frustrations with the learning curve
-<br>
 
 ## Areas of interest
-#### Government spending
+
+### Government spending
 * Visualisation of spending, spending over time
 * Spending contrasted with public opinion (what people see as the government's priorities)
-<br>
 
-#### Land use and access
+### Geographic
+* Land use
+* Land access
 * Regenerative farming
-<br>
 
-#### Household energy use against various factors
-* Temperature
-* Weather
+### Household energy use against various factors
+* Environmental conditions
+* Location
 * Property value
-<br>
-
-## Completed Projects
-When are they ever completed?
-<br>
-
-#### My first data project(!)
-[Cycleways and their impact](https://nbviewer.jupyter.org/github/phtevegibson/data-projects/blob/main/notebooks/Cycleways%20and%20their%20impact.ipynb)
-

@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Adventures
+title: Some past adventures
 ---
-
-Some past adventures
 
 ### [Fiordland - The Hollyford](/adventures/fiordland_the_hollyford.html)
 ###### August 2021
