@@ -19,10 +19,6 @@ A 3 day tramp a long time in the planning, traversing 3 passes in northern Fiord
 ###### February 2021
 2 weeks cycle touring in the southern south island. I designed the route to combine as many of the New Zealand cycle trails in the area as possible. I was particularly impressed by the amount of historical information available on my route through trailside boards and exhibits. The enjoyment I got from learning about the history of the places I passed through was an unexpected bonus for the trip
 
-### [Backcountry Christmas - Mt Arthur](/adventures/backcountry_christmas.html)
-###### December 2020
-6 days circling and summiting Mt Arthur, in the Kahurangi National Park
-
 ### [A Snowy Surprise at Mount Somers](/adventures/mount_somers_surprise.html)
 ###### November 2020
 A weekend explore of Mount Somers in Canterbury. We woke on Sunday morning to a surprise overnight snowfall

@@ -3,6 +3,10 @@ layout: post
 title: Backcountry Christmas
 ---
 
+### [Backcountry Christmas - Mt Arthur](/adventures/backcountry_christmas.html)
+###### December 2020
+6 days circling and summiting Mt Arthur, in the Kahurangi National Park
+
 <p>Being with family is a key part of Christmas for me. At some point previously, there was a chance that I might have been at home in the UK for this Christmas. However with Covid-19 and the myriad -
 associated complications it was apparent that that was unlikely from a long way out.</p>
 

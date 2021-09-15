@@ -11,3 +11,6 @@ It's empty for now, oh no how sad
 
 ## <a href = "interesting-things.html"> Interesting things</a>
 Various people, organisations, or websites that I like
+
+## <a href = "https://www.janestreet.com/puzzles/"> Jane Street Puzzles</a>
+
