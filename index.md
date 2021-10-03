@@ -5,6 +5,9 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+# <a href = "what_am_i_doing_next.html"> What am I doing next?</a> 
+# <a href = "about-me.html"> More about me</a>
+
 layout: home
 title: An introduction
 ---
@@ -13,10 +16,10 @@ title: An introduction
 * Masters in Data Science & AI
 * Adventures in the UK
 * Catching up with friends and family
-* <a href = "what_am_i_doing_next.html"> What am I doing next?</a> 
+
 
 ## About me
-Nothing special. I aim to treat others well and not be judgemental. <a href = "about-me.html"> More about me</a>
+Nothing special. I aim to treat others well and not be judgemental.
 
 ## <a href = "adventures/adventures.html"> Adventures</a>
 A collection of outdoor activities

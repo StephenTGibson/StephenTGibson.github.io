@@ -3,6 +3,15 @@ layout: posts
 title: Website
 ---
 
+<img src="/images/adventures/backcountry-christmas/sitting_down_on_the_job-300x225.jpg" alt = 'some text'/>
+<img src="drawing.jpg" alt="drawing" width="200"/>
+![*Alt text*](/images/adventures/kaikoura_hapuku_valley_and_mt_fyffe/kaikoura_hapuku_valley_and_mt_fyffe-maybe_the_maximum_lake_depth-800x600.jpg)
+
+<img src="drawing.jpg" alt="drawing" width="200"/>
+
+<!--- comment here -->
+
+
 ## Background
 When I decided to make a website I was keen to remind myself that it only needs to be simple and the content informative to be effective. I'm not really inclined to learn complete web development.
 
