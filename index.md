@@ -17,15 +17,14 @@ title: An introduction
 * Adventures in the UK
 * Catching up with friends and family
 
-
 ## About me
-Nothing special. I aim to treat others well and not be judgemental.
+Nothing special. I aim to treat others well and not be judgemental
 
 ## <a href = "adventures/adventures.html"> Adventures</a>
 A collection of outdoor activities
 
 ## <a href = "data_projects/data_projects.html"> Data Projects</a>
-Investigating things I find interesting and practicing programming, analysis and visualisation at the same time
+Investigating things I find interesting. Practicing programming, analysis and visualisation
 
 ## <a href = "maps/maps.html"> Maps</a>
-text
+Some maps that I've made
