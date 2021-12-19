@@ -48,9 +48,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - data_projects/data_projects.md
  - adventures/adventures.md
-
+ - data_projects/data_projects.md
+ - maps/maps.md
 
 # Build settings
 # theme:
