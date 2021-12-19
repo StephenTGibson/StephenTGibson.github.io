@@ -3,31 +3,37 @@ layout: post
 title: Otago, Southland and Canterbury Cycle Tour
 ---
 
+###### Day 1
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-1_leaving_dunrobin-800x600.jpg)
+![Cyclist standing beside his bike in sunshine](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-1_leaving_dunrobin-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-2_brighton_summer-800x600.jpg)
+![Bike leaning against a bench with a beach and coastline beyond](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-2_brighton_summer-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-3_waihola_waipori_wetlands-800x600.jpg)
+![Wetlands and a wooden walkway in sunshine](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-3_waihola_waipori_wetlands-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-4_lake_mahinerangi-800x600.jpg)
+###### Day 2
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-5_down_to_lawrence-800x600.jpg)
+![Bike on the side of a gravel road with a lake and foresty beyond](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-4_lake_mahinerangi-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-6_joining_clutha_gold-800x600.jpg)
+![Road going downhill with blue sky above](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-5_down_to_lawrence-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-7_clutha_beaumont-800x600.jpg)
+![Bike resting against a gate on a gravel cycleway](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-6_joining_clutha_gold-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-8_beaumont_camping-800x600.jpg)
+![A wide river with rocks in sunshine](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-7_clutha_beaumont-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-9_roxburgh_dam-800x600.jpg)
+![A tarpaulin stretched out tied to a fence and a upturned bicycle](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-8_beaumont_camping-800x600.jpg)
 
+###### Day 3
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-10_otago_rail_trail_from_alex-800x600.jpg)
+![View from the top of a dam, river below and electricity power lines on the side](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-9_roxburgh_dam-800x600.jpg)
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-11_start_thompsons_saddle_road-800x600.jpg)
+###### Day 4
 
-![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-12_half_way_thompsons_saddle-800x600.jpg)
+![Bike on a gravel track with rocks around and cloudy sky](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-10_otago_rail_trail_from_alex-800x600.jpg)
+
+![Many warning signs beside a narrow tarmac road with hills beyond](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-11_start_thompsons_saddle_road-800x600.jpg)
+
+![Bike resting against a gate with hills around and a winding track in the distance](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-12_half_way_thompsons_saddle-800x600.jpg)
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-13_top_thompsons_windy-800x600.jpg)
 
@@ -35,7 +41,11 @@ title: Otago, Southland and Canterbury Cycle Tour
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-15_bendigo_side_thompsons-800x600.jpg)
 
+###### Day 5
+
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-16_cromwell_clutha_kawarau-800x600.jpg)
+
+###### Day 6
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-17_queenstown_lake_wakatipu-800x600.jpg)
 
@@ -50,6 +60,8 @@ title: Otago, Southland and Canterbury Cycle Tour
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-21_evening_at_beach_point_campsite-800x600.jpg)
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-22_possum_evening_visitor-800x600.jpg)
+
+###### Day 7
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-23_morning_clouds_ben_lomond-800x600.jpg)
 
@@ -74,7 +86,11 @@ title: Otago, Southland and Canterbury Cycle Tour
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-32_south_mavora_lake-800x600.jpg)
 
+###### Day 8
+
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-33_approaching_mossburn-800x600.jpg)
+
+###### Day 9/10/?
 
 ![*Alt text*](/images/adventures/otago_southland_canterbury_cycle_tour/otago_southland_canterbury_cycle_tour-34_alps_to_ocean_above_lake_benmore-800x600.jpg)
 
