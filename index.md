@@ -26,3 +26,6 @@ A collection of outdoor activities
 
 ## <a href = "data_projects/data_projects.html"> Data Projects</a>
 Investigating things I find interesting and practicing programming, analysis and visualisation at the same time
+
+## <a href = "maps/maps.html"> Maps</a>
+text
