@@ -3,6 +3,10 @@ layout: page
 title: Adventures
 ---
 
+### [Peak District - Hathersage to Edale](/adventures/peaks_hathersage_edale.html)
+###### November 2021
+A nice long day connecting Hathersage and Edale train stations via Stanage Edge, Bamford Edge, Win Hill, Crookstone Knoll and down to Edale from Ringing Roger
+
 ### [Fiordland - The Hollyford](/adventures/fiordland_the_hollyford.html)
 ###### August 2021
 Originally planned to attempt an FKT on the Hollyford and Pyke loop. Foiled by Fiordland weather, we instead retraced our steps back up the Hollyford
