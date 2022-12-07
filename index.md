@@ -12,19 +12,26 @@ layout: home
 title: An introduction
 ---
 ## What I'm doing now
-* Living in Liverpool, UK
-* Masters in Data Science & AI
-* Adventures in the UK
-* Catching up with friends and family
+* Newly arrived to Vancouver, Canada
+* Looking for exciting new employment opportunities
+* Getting married in January!
+* Exploring the area
+* Making new friends
+* Recovering from an ankle injury
 
 ## About me
-Nothing special. I aim to treat others well and not be judgemental
+* Nothing special. I aim to treat others well and not be judgemental.
+* Natural tendency for problem solving and <i>slow</i> thinking.
+* Value collaboration and consensus based decisions.
 
 ## <a href = "adventures/adventures.html"> Adventures</a>
-A collection of outdoor activities
+A collection of outdoor activities.
 
-## <a href = "data_projects/data_projects.html"> Data Projects</a>
-Investigating things I find interesting. Practicing programming, analysis and visualisation
+## <a href = "algorithms/algorithms.html"> Algorithms</a>
+Coding algorithms from scratch, visualising results.
+
+## <a href = "data_projects/data_projects.html"> Data</a>
+Investigating interesting things. Practicing machine learning, analysis, visualisation.
 
 ## <a href = "maps/maps.html"> Maps</a>
-Some maps that I've made
+Some maps that I've made.
